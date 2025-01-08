@@ -18,3 +18,4 @@ goto Exit
 :AdminErr
 echo Install script must be run as administrator.
 :Exit
+exit
